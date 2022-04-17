@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vindiem
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning c sharp
+- 🌱 I’m currently learning C#/C++
 - 📫 How to reach me: my telegram: @vindiem
 
 <!---
