@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vindiem
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#/C++/Java
-- 📫 How to reach me: u can't
+- 📫 How to reach me: vitiakyselov1@gmail.com
 
 <!---
 vindiem/vindiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
