@@ -19,9 +19,9 @@ I'm a passionate game developer with over 2 years of experience in creating imme
 
 <h2>🚀 Projects</h2>
 
-<h3><a href="https://vindiem.itch.io/maniac">Maniac</a></h3>
+<h3><a href="https://store.steampowered.com/app/3738570/Maniac_Hunt_or_Be_Hunted/">Maniac: Hunt or be Hunted</a></h3>
 <p>Trapped in a cursed house, the victims must fight back or die trying. Will you hunt or be hunted?</p>
-<img src="https://img.itch.zone/aW1hZ2UvMzQxNDM0My8yMDUzNzMyMy5wbmc=/original/qpRRbL.png" width="500"/>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3738570/a85c4dd29b58c60e3e3c800479b84cd49b31cc21/ss_a85c4dd29b58c60e3e3c800479b84cd49b31cc21.1920x1080.jpg?t=1747824030" width="500"/>
 
 <h3><a href="https://vindiem.itch.io/mystic-mage">Mystic Mage</a></h3>
 <p>A mystical magician who owns four elements is preparing for a battle in the arena.</p>
