@@ -39,7 +39,7 @@ I'm a passionate game developer with over 2 years of experience in creating imme
 
 <hr/>
 
-<h2>📫 Contact Me</h2>
+<h2>Contact Me</h2>
 <ul>
   <li>Email: vitiakyselov1@gmail.com</li>
   <li><a href="https://vindiem.itch.io/">itch.io</a></li>
